@@ -1,0 +1,175 @@
+{
+	"basics": {
+		"name": "Wahyu Muhammad Nouval",
+		"label": "Software Engineer",
+		"image": "https://github.com/cruizerway/resume/blob/main/src/images/photo.jpg?raw=true",
+		"email": "cruizer468@gmail.com",
+		"url": "https://wahyumn.me",
+		"summary": "My name is Wahyu Muhammad Nouval, an Associate’s Degree of Computer Engineer student. I am someone who has an interest in the IT field, especially programmer, data, and hardware/software development. \n\nI have experience working Full Stack Developer IoT Website and Mobile Apps and have a passion for joining social activities. I am happy to learn things related to programmers and IoT.\n\nOutside of programming, I enjoy reading books. I love the pleasure and excitement of gaining new knowledge other than programming from the books I read.",
+		"location": {
+			"countryCode": "ID",
+			"region": "Indonesia"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "cruizerway",
+				"url": "https://github.com/cruizerway"
+			},
+			{
+				"network": "linkedin",
+				"username": "wahyu-muhammad-nouval",
+				"url": "https://www.linkedin.com/in/wahyumnou/"
+			},
+			{
+				"network": "twitter",
+				"username": "kebociwaringin",
+				"url": "https://twitter.com/in/kebociwaringin"
+			},
+			{
+				"network": "instagram",
+				"username": "wahyumnou",
+				"url": "https://instagram.com/wahyumnou"
+			},
+			{
+				"network": "portfolio",
+				"username": "wahyumn.me",
+				"url": "https://wahyumn.me"
+			}
+		]
+	},
+	"work": [
+        {
+            "name": "Associate Technical Consultant",
+            "position": "RPA Developer",
+            "url": "https://github.com/cruizerway",
+            "startDate": "Feb 2020",
+            "endDate": "Present",
+            "summary": "",
+            "location": "Jakarta, Indonesia",
+            "highlights": [
+                "Learn new things about automation especially Robotic Process Automation.",
+                "Learn Robotic Process Automation best practice using UiPath Platform.",
+                "Collaborate with Senior Technical Consultant to help them automate several use cases for customers in bank and beverage industry."
+            ]
+	    },
+        {
+            "name": "Departemen Ilmu Komputer IPB",
+            "position": "Full Stak Web IOT Developer Intern",
+            "url": "https://cs.ipb.ac.id/en/",
+            "startDate": "Jan 2020",
+            "endDate": "March 2020",
+            "summary": "",
+            "location": "Bogor, Indonesia",
+            "highlights": [
+                "Develop Website apps IOT for automatic weather station using HTML,CSS,PHP,and JS.",
+                "Develop Mobile App for Automatic Weather Station and create notification if rainy and smoke in danger using Mit App Inventor."
+            ]
+	    }
+    ],
+	"education": [
+        {
+            "institution": "IPB University",
+            "url": "https://ipb.ac.id/",
+            "area": "Computer Engineer",
+            "studyType": "Associate of Science",
+            "startDate": "2017",
+            "endDate": "2020",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "SMA NEGERI 4 Cirebon",
+            "url": "",
+            "area": "Sciences Major",
+            "studyType": "Vocational High School",
+            "startDate": "2014",
+            "endDate": "2017",
+            "score": "",
+            "courses": []
+        }
+    ],
+	"volunteer": [],
+	"awards": [{
+		"title": "1st Place in LKS National Competition (Web Technology) 2020",
+		"date": "Oct 2021",
+		"awarder": "Ministry of Education Indonesia",
+        "highlights": [
+            "Speedtest Module (complete several small tasks) in 2 hours",
+            "CMS Wordpress Module (create theme and plugins) in 2 hours",
+            "Server-side Module (using Laravel and VueJS) in 6 hours",
+            "Client-side Module (create HTML5 game) in 4 hours"
+        ],
+		"summary": ""
+	}],
+	"certificates": [],
+	"publications": [],
+	"skills": [
+        {
+            "name": "Frontend",
+            "level": "",
+            "keywords": ["Javascript", "Vue"]
+        },
+        {
+            "name": "Backend",
+            "level": "",
+            "keywords": ["Laravel", "Go", "Wordpress","Nodejs", "SQL", "MongoDB"]
+        },
+        {
+            "name": "Languages",
+            "level": "",
+            "keywords": ["PHP", "Go", "Javascript", "Python","VB"]
+        }
+    ],
+	"languages": [
+        {
+			"language": "Indonesian",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "Fluent"
+		}
+	],
+	"interests": [{
+		"name": "Books",
+		"keywords": ["Fiction", "Fantasy", "Self-improvement", "Sci-fi"]
+	}],
+	"references": [],
+	"projects": [
+        {
+            "name": "AWS ILKOM IPB",
+            "description": "IOT Website for Monitoring Weather",
+            "highlights": [],
+            "keywords": [
+              "bootstrap", "PHP", "Thingspeak", "javascript"
+            ],
+            "startDate": "Jan 2020",
+            "endDate": "Mar 2020",
+            "githubUrl": "https://github.com/cruizer468/IOT-for-Automatic-Weather-Station",
+            "url": "https://github.com/cruizer468/IOT-for-Automatic-Weather-Station",
+            "roles": [
+              "Owner & Maintainer"
+            ],
+            "type": "application",
+            "entity": ""
+        },
+        {
+            "name": "MONDALIST",
+            "description": "IoT Website for Monitoring Electrical Power",
+            "highlights": [],
+            "keywords": [
+              "CSS", "PHP", "dashboard", "javascript", "SQL"
+            ],
+            "startDate": "Jul 2019",
+            "endDate": "Jan 2019",
+            "githubUrl": "https://github.com/cruizer468/IOT-for-monitoring-daya-listrik",
+            "url": "https://github.com/cruizer468/IOT-for-monitoring-daya-listrik",
+            "roles": [
+              "Owner & Maintainer"
+            ],
+            "type": "application",
+            "entity": ""
+        
+         }
+    ]
+}

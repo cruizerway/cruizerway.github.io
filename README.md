@@ -1,18 +1,18 @@
-## Build Setup
+# Resume
+This is my Résumé generator. You can check out my Résumé [here](https://resume.saugi.me).
 
+# Use this template as your resume
+1. Fork this repository
+2. Edit the files in `resume.json`. The JSON Schema is based on [JSON Resume](https://jsonresume.org/schema/).
+3. Push it to your fork repository
+4. Set up Github Pages from repository Settings -> Pages -> Choose `gh-pages` branch
+5. Done!
+
+In case you want to preview it locally, run:
 ```bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
+npm install
+npm run dev
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+# License
+MIT License
